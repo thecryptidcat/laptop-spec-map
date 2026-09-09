@@ -1,9 +1,9 @@
 # Laptop specification map
 A program to show a customisable map of laptops displaying their core specs
 
-This is more of a tool I am working on for personal use than a project to showcase, but I'm uploading it here for ease of access and editing so feel free to follow along in its progress. Do
+This is more of a tool I am working on for personal use than a project to showcase, but I'm uploading it here for ease of access and editing so feel free to follow along in its progress.
 
-note: each chunk of edits may make the code nonfunctional as I save from each session whether I have finished the part I was working on or not
+Note: each chunk of edits may make the code nonfunctional as I save after each session whether I have finished the part I was working on or not.
 
 ---
 
